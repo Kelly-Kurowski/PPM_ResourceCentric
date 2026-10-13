@@ -1,0 +1,16 @@
+{
+    "sequence_length": 100,
+    "best_hyperparameters": {
+        "subsample": 1.0,
+        "n_estimators": 300,
+        "max_depth": 10,
+        "learning_rate": 0.1,
+        "colsample_bytree": 0.8
+    },
+    "metrics": {
+        "accuracy": 0.6944444444444444,
+        "precision": 0.6423237753882914,
+        "recall": 0.6944444444444444,
+        "f1_score": 0.6550682261208576
+    }
+}

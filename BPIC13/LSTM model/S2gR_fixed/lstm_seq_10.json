@@ -1,0 +1,17 @@
+{
+    "sequence_length": 10,
+    "best_hyperparameters": {
+        "hidden_size": 160,
+        "lr": 0.0005,
+        "optimizer": "rmsprop"
+    },
+    "metrics": {
+        "accuracy": 0.5357142857142857,
+        "precision": 0.7328326361600541,
+        "recall": 0.5357142857142857,
+        "f1_score": 0.5707620011567379,
+        "num_samples": 1237,
+        "sequence_length": 10
+    },
+    "runtime_seconds": 22.57
+}

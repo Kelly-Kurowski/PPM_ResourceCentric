@@ -1,0 +1,15 @@
+{
+    "prefix_length": 125,
+    "best_hyperparameters": {
+        "units": 32,
+        "optimizer": "rmsprop",
+        "learning_rate": 0.001,
+        "batch_size": 16
+    },
+    "metrics": {
+        "accuracy": 0.6,
+        "precision": 0.4285714285714286,
+        "recall": 0.6,
+        "f1_score": 0.5
+    }
+}

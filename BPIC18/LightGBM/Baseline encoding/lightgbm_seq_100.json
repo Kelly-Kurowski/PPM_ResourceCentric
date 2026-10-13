@@ -1,0 +1,16 @@
+{
+    "sequence_length": 100,
+    "best_hyperparameters": {
+        "max_depth": 10,
+        "min_child_samples": 20,
+        "min_split_gain": 0.0,
+        "n_estimators": 500
+    },
+    "metrics": {
+        "accuracy": 0.3225806451612903,
+        "precision": 0.31720430107526876,
+        "recall": 0.3225806451612903,
+        "f1_score": 0.3191282770525407
+    },
+    "runtime_s": 125.63
+}

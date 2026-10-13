@@ -1,0 +1,14 @@
+{
+    "sequence_length": 1400,
+    "best_hyperparameters": {
+        "d_model": 32,
+        "num_heads": 2,
+        "num_layers": 1
+    },
+    "metrics": {
+        "accuracy": 0.25,
+        "precision": 0.125,
+        "recall": 0.25,
+        "f1_score": 0.15185185185185188
+    }
+}

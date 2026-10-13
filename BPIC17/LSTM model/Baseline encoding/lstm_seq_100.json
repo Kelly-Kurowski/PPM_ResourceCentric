@@ -1,0 +1,17 @@
+{
+    "sequence_length": 100,
+    "best_hyperparameters": {
+        "hidden_size": 96,
+        "lr": 0.0001,
+        "optimizer": "adam"
+    },
+    "metrics": {
+        "accuracy": 0.27586206896551724,
+        "precision": 0.14716748768472906,
+        "recall": 0.27586206896551724,
+        "f1_score": 0.18180076628352493,
+        "num_samples": 541,
+        "sequence_length": 100
+    },
+    "runtime_seconds": 20.3
+}

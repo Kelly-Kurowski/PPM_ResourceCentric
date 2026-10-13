@@ -1,0 +1,15 @@
+{
+    "prefix_length": 100,
+    "best_hyperparameters": {
+        "units": 96,
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "batch_size": 64
+    },
+    "metrics": {
+        "accuracy": 0.84375,
+        "precision": 0.7362108566252589,
+        "recall": 0.84375,
+        "f1_score": 0.7826094391244871
+    }
+}

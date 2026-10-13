@@ -1,0 +1,16 @@
+{
+    "sequence_length": 100,
+    "best_params": {
+        "bootstrap": false,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 100
+    },
+    "metrics": {
+        "accuracy": 0.2903225806451613,
+        "precision": 0.1863799283154122,
+        "recall": 0.2903225806451613,
+        "f1_score": 0.22506488691138304
+    }
+}
